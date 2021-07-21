@@ -1,6 +1,6 @@
 # The trajectory to execute
 RobotTrajectory trajectory
-
+string group_name
 ---
 
 # Error code - encodes the overall reason for failure
